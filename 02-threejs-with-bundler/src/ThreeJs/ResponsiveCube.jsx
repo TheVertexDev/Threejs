@@ -73,7 +73,7 @@ export default function ResponsiveCube() {
     // Resize Listener
     window.addEventListener("resize", handleResize);
 
-    // Clock
+    // Clock    
     const clock = new Clock();
 
     // Animation Loop
